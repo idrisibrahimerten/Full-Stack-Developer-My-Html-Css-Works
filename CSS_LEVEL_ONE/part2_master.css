@@ -1,0 +1,16 @@
+/*Sayfa arkasına renk eklemek için : */
+body{
+  background: rgb(247, 245, 245);
+}
+
+/* Sadece belirlenen bölüm için : */
+div{
+  background: red;
+  border-color: blue;
+  border-width: 1px;
+  border-style: double;
+}
+
+p{
+  color:yellow;
+}

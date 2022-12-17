@@ -1,0 +1,21 @@
+h1{
+  font-family: "Arial";
+}
+
+p{
+  font-family: monospace;
+}
+
+#pitwo{
+  font-family: sans-serif;
+}
+
+/*Yazı fontu boyutu ayarlama!*/
+body{
+  font-size: 30px;
+}
+
+/*Yazı konumu belirleme*/
+h1{
+  text-align: center;
+}

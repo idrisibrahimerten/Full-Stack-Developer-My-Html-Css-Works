@@ -1,0 +1,13 @@
+div{
+  color:blue;
+}
+
+.secondDiv{
+  color:red;
+}
+
+#singledout{
+  color : purple;
+  /*Yazının üzerini çizme*/
+  text-decoration: line-through;
+}

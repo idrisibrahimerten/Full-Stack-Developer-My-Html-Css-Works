@@ -1,0 +1,36 @@
+body{
+  background: #F6E7D8;
+}
+
+.sayfabaslik{
+  border-bottom: 6px solid red;
+}
+.baslik{
+  background: yellow;
+}
+
+.topitems{
+  color: purple;
+}
+
+#özellikbir{
+  text-decoration: inherit;
+  color: blue;
+}
+
+a{
+  color: red;
+}
+
+strong{
+  color: black;
+}
+
+.exit{
+  background: #56BBF1;
+  border: 4px dashed #E04DB0;
+}
+
+.yellow{
+  background: yellow;
+}
