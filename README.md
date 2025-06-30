@@ -7,12 +7,6 @@
 ### Overview
 This repository showcases my HTML and CSS projects as a Full Stack Developer. It contains responsive web page designs, layouts, and components that demonstrate modern web development practices.
 
-### Projects
-- **Portfolio Website** – A personal portfolio showcasing skills and projects.  
-- **Landing Page** – A responsive landing page with hero section, features, and call-to-action.  
-- **Blog Template** – A CSS-styled blog layout with grid and flexbox usage.  
-- **E-commerce Product Page** – Product card designs and responsive grid layouts.  
-
 ### Requirements
 - Modern web browser (Chrome, Firefox, Edge, Safari)  
 - No external dependencies—pure HTML5 and CSS3  
@@ -39,13 +33,7 @@ Contributions, feedback, and new design suggestions are welcome! Feel free to su
 ## Türkçe
 
 ### Genel Bakış
-Bu depo, bir Full Stack Geliştirici olarak geliştirdiğim HTML ve CSS projelerimi içerir. Modern web geliştirme pratiklerini gösteren responsive sayfa tasarımları, düzenler ve bileşenler barındırır.
-
-### Projeler
-- **Portföy Web Sitesi** – Becerileri ve projeleri sergileyen kişisel portföy.  
-- **Landing Page** – Hero bölümü, özellikler ve çağrı-düğmesi içeren responsive açılış sayfası.  
-- **Blog Şablonu** – Grid ve flexbox kullanımıyla CSS tasarlanmış blog düzeni.  
-- **E-ticaret Ürün Sayfası** – Ürün kartı tasarımları ve responsive grid düzenleri.  
+Bu depo, bir Full Stack Geliştirici olarak geliştirdiğim HTML ve CSS projelerimi içerir. Modern web geliştirme pratiklerini gösteren responsive sayfa tasarımları, düzenler ve bileşenler barındırır. 
 
 ### Gereksinimler
 - Modern web tarayıcı (Chrome, Firefox, Edge, Safari)  
